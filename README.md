@@ -7,7 +7,7 @@ You can find a working demo here:
 ```
 http://favicon.maleck.org/?domain=google.com
 ```
-Simply replace "google.com" with another domain to get its favicon. The link will output the google icon as a .png file.
+Simply replace "google.com" with another domain to get its favicon. In this case the link will output the google icon as a .png file.
 
 ### Support
 
