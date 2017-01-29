@@ -1,6 +1,6 @@
 # PHP GetFavIcon
 
-PHP GetFavIcon is a PHP script to get the favicon of any website and display it as .png file.
+PHP GetFavIcon is a simple PHP script to get the favicon of any website and display it as .png file.
 It is currently not working for all sites - so this is why we need *your* help!
 
 You can find a working demo here:
