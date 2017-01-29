@@ -14,4 +14,4 @@ Simply replace "google.com" with another domain to get its favicon. The link wil
 You can get support here: http://ibm.bplaced.com/contact/index.php?cdproject=PHP-GetFavIcon&cdver=1.0
 
 ### A Project by maleck.org
-![alt text](https://www.maleck.org/us/img/maleck_logo_modern_1_black.png =200x)
+![alt text](https://www.maleck.org/us/img/maleck_logo_modern_1_black.png)
